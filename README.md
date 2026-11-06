@@ -1,6 +1,6 @@
 # Inkdrop Skills
 
-[![skills.sh](https://skills.sh/b/inkdropapp/skills)](https://skills.sh/inkdropapp/skills)
+[![skills.sh](https://www.skills.sh/b/inkdropapp/skills)](https://www.skills.sh/inkdropapp/skills)
 
 Agent Skills that make your AI coding agent fluent in [Inkdrop](https://www.inkdrop.app),
 the Markdown note-taking app. They teach the agent Inkdrop's Markdown dialect and how to run
